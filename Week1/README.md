@@ -19,7 +19,7 @@
 ### Videos
 
 | Resource | Link |
-|---|---|---|
+|---|---|
 | Steven Brunton - Intro to PDEs playlist (Videos 1–3) | [YouTube](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) |
 | Chris Rackauckas - Intro to Scientific ML 2: PINNs (MIT 18.337) | [YouTube](https://www.youtube.com/watch?v=hKHl68Fdpq4) |
 | Karpathy - Neural Networks: Zero to Hero, Lecture 1 (micrograd) | [YouTube](https://www.youtube.com/watch?v=VMj-3S1tku0) |
